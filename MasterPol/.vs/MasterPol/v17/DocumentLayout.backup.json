@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\comcuru\\Desktop\\Vasterpol\\MasterPol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{423D0EA3-C4C1-47C8-82EC-9C09BE104469}|MasterPol\\MasterPol.csproj|c:\\users\\comcuru\\desktop\\vasterpol\\masterpol\\masterpol\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{423D0EA3-C4C1-47C8-82EC-9C09BE104469}|MasterPol\\MasterPol.csproj|solutionrelative:masterpol\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{423D0EA3-C4C1-47C8-82EC-9C09BE104469}|MasterPol\\MasterPol.csproj|c:\\users\\comcuru\\desktop\\vasterpol\\masterpol\\masterpol\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{423D0EA3-C4C1-47C8-82EC-9C09BE104469}|MasterPol\\MasterPol.csproj|solutionrelative:masterpol\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{423D0EA3-C4C1-47C8-82EC-9C09BE104469}|MasterPol\\MasterPol.csproj|c:\\users\\comcuru\\desktop\\vasterpol\\masterpol\\masterpol\\classes\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{423D0EA3-C4C1-47C8-82EC-9C09BE104469}|MasterPol\\MasterPol.csproj|solutionrelative:masterpol\\classes\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\comcuru\\Desktop\\Vasterpol\\MasterPol\\MasterPol\\Classes\\Manager.cs",
+              "RelativeDocumentMoniker": "MasterPol\\Classes\\Manager.cs",
+              "ToolTip": "C:\\Users\\comcuru\\Desktop\\Vasterpol\\MasterPol\\MasterPol\\Classes\\Manager.cs",
+              "RelativeToolTip": "MasterPol\\Classes\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:28:35.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\comcuru\\Desktop\\Vasterpol\\MasterPol\\MasterPol\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MasterPol\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\comcuru\\Desktop\\Vasterpol\\MasterPol\\MasterPol\\MainWindow.xaml",
+              "RelativeToolTip": "MasterPol\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-18T13:26:18.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\comcuru\\Desktop\\Vasterpol\\MasterPol\\MasterPol\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MasterPol\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\comcuru\\Desktop\\Vasterpol\\MasterPol\\MasterPol\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MasterPol\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:26:18.127Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
