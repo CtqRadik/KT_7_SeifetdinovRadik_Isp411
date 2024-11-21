@@ -24,6 +24,7 @@ namespace MasterPol
         {
             InitializeComponent();
             Classes.Manager.MainFrame = MainFrame;
+            Classes.Manager.MainFrame.Navigate(new Pagess.ViewPage());
         }
     }
 }
